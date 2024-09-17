@@ -152,6 +152,15 @@ width: 100%;
 .footerP{
   height: 600px;
 }
+
+.correo{
+  font-size: 14px;
+  color: var(--diabled);
+  position: absolute;
+  top: 2300px;
+  left: 1px;
+  transform: translateX(50%);
+}
 }
 
   
